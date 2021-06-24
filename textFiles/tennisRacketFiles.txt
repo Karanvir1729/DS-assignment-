@@ -1,0 +1,6 @@
+ name- price- weight- stock- number of grips- discount
+ 
+ Head---239---2332---23---4---0.2
+ Denlope---60---2332---23---23---0.2
+ Prince---239---2332---23---23---0.2
+ Crown---233---2333---23---23---0.2

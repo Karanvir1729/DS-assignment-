@@ -1,0 +1,6 @@
+ name- price- weight- stock- number of rubber layers- thickness
+ 
+ Head---239---2332---23---2---340
+ Denlope---60---2332---23---2---340
+ Prince---239---2332---23---2---340
+ Crown---233---2333---23---2---380
